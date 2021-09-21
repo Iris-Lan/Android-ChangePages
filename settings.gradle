@@ -1,0 +1,2 @@
+rootProject.name = "EX41"
+include ':app'
